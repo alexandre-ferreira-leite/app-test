@@ -3,11 +3,11 @@ import { useState } from "react";
 function Home() {
     return (
         <div>
-            <h4>Home</h4>
+            <h4>Página inicial</h4>
 
             <Contador />
 
-            Teste
+            nova branch Teste
         </div>
     )
 }
